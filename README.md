@@ -5,6 +5,22 @@ Spotify does a great job at providing us with many (and always fresh) playlists,
 But, sometimes it is also lots of fun to generate our own playlists,according to whatever criteria we can think of.  
 My project is about a simple Python application to create custom Spotify playlists using the Spotify Web API,based on seed tracks.
 
+## Install
+Install the necessary Python packages by running:
+
+`$ pip install -r requirements.txt`
+
+## Run
+Export the environment variables:
+
+`$ export SPOTIFY_AUTHORIZATION_TOKEN=value_grabbed_from_spotify`
+
+`$ export SPOTIFY_USER_ID=value_grabbed_from_spotify`
+
+Run the entry-point script and follow the console instructions:
+
+`$ python createplaylist.py`
+
 P.S
 You should have an active spotify account in order to download & run the codes and implement the project.
 
