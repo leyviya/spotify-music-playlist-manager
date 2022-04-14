@@ -7,3 +7,6 @@ My project is about a simple Python application to create custom Spotify playlis
 
 P.S
 You should have an active spotify account in order to download & run the codes and implement the project.
+
+https://user-images.githubusercontent.com/63939366/163378776-712ee32f-b845-4dd0-b08d-d5ed613414a7.mov
+
